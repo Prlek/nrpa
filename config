@@ -1,0 +1,5 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host www2.scptuj.si
+    HostName www2.scptuj.si
+    User marinic.luka
+    Port 9999
